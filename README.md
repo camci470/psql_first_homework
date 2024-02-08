@@ -1,1 +1,1 @@
-#Sql 1. Ödev
+#Sql Ödevleri
